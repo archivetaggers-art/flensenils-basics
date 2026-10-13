@@ -2,6 +2,8 @@
 
 Ett **icke-kommersiellt fanspel** gjort för skojs skull av Fabian, Axel och Kristian Holm.
 
+Spela ensam eller **multiplayer** med upp till 4 kompisar (privata rum med kod eller offentliga lobbies).
+
 **Spela:** https://archivetaggers-art.github.io/flensenils-basics/
 
 ## Credits
